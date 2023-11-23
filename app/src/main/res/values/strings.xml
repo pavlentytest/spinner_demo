@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="options">
+        <item>Сумма длин сторон</item>
+        <item>Длина диагонали</item>
+        <item>Площадь полной поверхности</item>
+        <item>Объем</item>
+    </string-array>
+</resources>
